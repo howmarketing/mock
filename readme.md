@@ -74,7 +74,7 @@ bash ./index.sh
 
 - 
     ````ruby
-    open https://dye6.short.gy/QmtuEw && code . && code ./singleton.ts
+    open https://dye6.short.gy/2U63w6 && code . && code ./singleton.ts
     ````
 
 ## BEST REGARDS

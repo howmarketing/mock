@@ -2,7 +2,7 @@
 
 Welcome to the Mock DB project! This repository serves as a platform for simulating a database environment with mock data. Here's an overview of what you'll find:
 
-## Try It
+## Try Out
 
 - **MOCK SERVER:** [https://my-json-server.typicode.com/howmarketing/mock](https://my-json-server.typicode.com/howmarketing/mock)
 

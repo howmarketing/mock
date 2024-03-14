@@ -1,5 +1,5 @@
 {
-    "posts": [
+    "orders": [
         { "cleared": true, "orderDate": "2022-11-01T00:57:51.333Z",  "total":  100 },
         { "cleared": true, "orderDate": "2022-11-01T01:11:15.688Z",  "total":  40  },
         { "cleared": true, "orderDate": "2022-11-02T01:38:12.456Z",  "total":  20  },
@@ -27,5 +27,5 @@
         { "cleared": true, "orderDate": "2022-11-16T20:00:53.793Z",  "total":  75  },
         { "cleared": true, "orderDate": "2022-11-17T20:16:45.413Z",  "total":  56  }
     ],
-    "profile": { "name": "howmarketing" }
+    "profile": { "user": "howmarketing", "repo": "mock" }
 }
